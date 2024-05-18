@@ -26,4 +26,4 @@ Credits:
 This project was developed by John David A. baldo as a Grade 10 robotics project.
 
 Acknowledgments:
-Special thanks to Shiela Rodriguez and robot Research Lab for guidance andsupport throughout the project.
+Special thanks to Shiela Rodriguez and robot Research Lab for guidance andsupport throughout the project. 
