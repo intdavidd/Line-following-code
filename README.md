@@ -1,5 +1,5 @@
 Overview:
-This repository contains and uses the code for an open source line-following robot The robot is designed to autonomously navigate a path by following a black line on a white surface using infrared sensors.
+This repository contains and uses the code for an open source line-following robot The robot is designed to automatically navigate a path by following a black line on a white surface using infrared sensors.
 
 Hardware Requirements:
 
